@@ -1,8 +1,3 @@
-
-### Create README.md
-
-1. **Create a README.md** file in the root of your project and add the following content:
-
    ```markdown
    # Times of India Articles
 
